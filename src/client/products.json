@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Pixel XL",
+    "price": 1000
+  },
+  {
+    "name": "LG V20",
+    "price": 700
+  },
+  {
+    "name": "Iphone XS",
+    "price": 1000
+  },
+  {
+    "name": "Note 10",
+    "price": 1200
+  },
+  {
+    "name": "OnePlus 3",
+    "price": 800
+  },
+  {
+    "name": "Mate 20",
+    "price": 1000
+  }
+]
